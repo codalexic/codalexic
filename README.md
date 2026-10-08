@@ -27,11 +27,9 @@
 
 ###
 
-<h2 align="center">Techs I Use</h2>
+<h2 align="center">🛠️ Techs I Use</h2>
 
 ###
-
-## 🛠️ Techs I Use
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,43 +38,60 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 LLMs & Agentic Systems
-* **Frameworks & Protocols:** LangGraph, LangChain, Model Context Protocol (MCP)
-* **Agent Capabilities:** Tool/function calling, multi-step orchestration, human-in-the-loop approvals, fallback model routing
-* **Models:** Claude API (Anthropic), Gemini (Google Cloud), OpenAI Models
-* **RAG:** Embeddings, custom chunking strategies, reranking, vector search
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=json&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-232F3E?style=for-the-badge&logo=search&logoColor=white)
+* **Agent Architecture:** Tool/function calling, multi-step orchestration, human-in-the-loop approvals, fallback model routing
+* **Retrieval & Search:** Embeddings, custom chunking strategies, reranking, vector search
 
 ### 🛡️ LLM Evaluation, Safety & Observability
-* **Tracing & Eval:** LangSmith tracing & automated evaluation, dialogue scenario testing
-* **Optimization:** Advanced prompt engineering, guardrails, cost & latency monitoring
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Guardrails](https://img.shields.io/badge/LLM_Guardrails-E0234E?style=for-the-badge&logo=shield&logoColor=white)
+* **Tracing & Testing:** LangSmith tracing & automated evaluation, dialogue scenario testing
+* **Production Ops:** Human-in-the-loop approvals, fallback model routing, cost & latency monitoring
 
 ### 🎙️ Speech (STT / TTS) & Telephony
-* **Speech-to-Text:** Georgian Speech-to-Text (Whisper, Wav2Vec2 model adaptation, Gemini)
-* **Text-to-Speech:** Live voice agent integration, real-time audio processing
-* **Telephony & Routing:** SIP telephony, in-call multi-language detection (Georgian, English, Russian)
+![OpenAI Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Live Audio](https://img.shields.io/badge/RealTime_Audio-008080?style=for-the-badge&logo=microphone&logoColor=white)
+![SIP Telephony](https://img.shields.io/badge/SIP_Telephony-003B57?style=for-the-badge&logo=phone&logoColor=white)
+* **STT Adaptation:** Georgian Speech-to-Text fine-tuning (Whisper, Wav2Vec2, Gemini)
+* **Voice Agents:** Live TTS integration, real-time streaming audio
+* **Multi-Language Routing:** In-call real-time language detection (Georgian, English, Russian)
 
 ### 🧠 Machine Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-* **Models & Frameworks:** FaceNet, PyTorch, TensorFlow, Hugging Face Transformers
+![FaceNet](https://img.shields.io/badge/FaceNet-412991?style=for-the-badge&logo=faceit&logoColor=white)
 
-### ⚙️ Backend & Vector Databases
+### ⚙️ Backend & Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-* **Vector DBs:** `pgvector`, ChromaDB, Qdrant, Pinecone
-* **API & Integrations:** REST APIs, CRM integrations
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=database&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white)
+![CRM Integrations](https://img.shields.io/badge/CRM_Integrations-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-### ☁️ Infrastructure & DevOps
+### ☁️ Infra & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift%2FOKD-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* **Platforms & Pipelines:** Red Hat OpenShift / OKD, CI/CD pipelines
 
 ###
 
