@@ -13,20 +13,17 @@
 
 ###
 
-<!-- Dots Connection Animation -->
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="350" />
-</p>
-
-###
-
-<h2 align="center">My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codalexic&theme=bear&hide_border=true" width="750" alt="streak stats"/>
-</div>
+<!-- Side-by-Side Stats & Animation Table -->
+<table border="0" align="center">
+  <tr valign="center">
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codalexic&theme=bear&hide_border=true" width="480" alt="streak stats" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="280" />
+    </td>
+  </tr>
+</table>
 
 ###
 
