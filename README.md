@@ -23,10 +23,6 @@
 
 <br />
 
-<!-- 3D Contribution Graph Output -->
-<img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
-
-<br />
 
 ### 📊 stats
 <p align="center">
