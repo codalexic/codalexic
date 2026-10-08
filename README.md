@@ -52,10 +52,6 @@
 ###
 
 <div align="center">
-  <a href="https://axssell.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=about.me&label=&color=000000&logoColor=white&style=for-the-badge" height="40" alt="website logo" />
-  </a>
-  &nbsp;
   <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
