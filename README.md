@@ -1,3 +1,35 @@
+# Hey, I'm Alex! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+###
+
+<h2 align="center">About Me</h2>
+
+###
+
+🤖 I love learning about and making machine learning systems & AI agents.\
+💻 I am constantly seeking out new technologies and learning about them.\
+🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
+🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+
+###
+
+<!-- Side-by-Side Stats & Animation Table -->
+<table border="0" align="center">
+  <tr valign="middle">
+    <td align="center" bgcolor="#1f1f23" style="border-radius: 8px; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codalexic&theme=bear&hide_border=true" width="400" alt="streak stats" />
+    </td>
+    <td align="center" bgcolor="#1f1f23" style="border-radius: 8px; padding: 10px;" width="400" height="195">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" height="150" style="object-fit: contain;" />
+    </td>
+  </tr>
+</table>
+
+###
+
+<h2 align="center">🛠️ Techs I Use</h2>
+
+###
 <h2 align="center">🛠️ Techs & Tools I Use</h2>
 
 ### 💻 Languages
@@ -67,3 +99,14 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 * **Practices:** LLM Evaluation, Tracing, Cost & Latency Monitoring, Guardrails, Human-in-the-Loop Workflow
+###
+
+<h2 align="center">Find Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+</div>
