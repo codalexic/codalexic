@@ -3,14 +3,6 @@
 ###
 
 <h2 align="center">About Me</h2>
-
-###
-
-🤖 I love learning about and making machine learning systems & AI agents.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-
 ###
 
 <!-- Side-by-Side Stats & Animation Table -->
