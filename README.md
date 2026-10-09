@@ -1,16 +1,12 @@
 # Hey, I'm Alex! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-###
-
 <h2 align="center">About Me</h2>
-###
 
-<!-- Top Featured Animation -->
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" height="180" style="object-fit: contain;" />
 </div>
 
-###
+<br />
 
 <h2 align="center">🛠️ Techs & Tools I Use</h2>
 
@@ -82,21 +78,12 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 * **Practices:** LLM Evaluation, Tracing, Cost & Latency Monitoring, Guardrails, Human-in-the-Loop Workflow
 
-###
+<br />
 
 <h2 align="center">Find Me</h2>
-
-###
 
 <div align="center">
   <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-</div>
-
-###
-
-<!-- Outro Stats Card -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codalexic&theme=bear&hide_border=true" width="400" alt="streak stats" />
 </div>
