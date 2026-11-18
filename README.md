@@ -8,22 +8,6 @@
 
 # Hey, I'm Alex! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-###
-
-<h2 align="center">About Me</h2>
-
-###
-
-🤖 I love learning about and making machine learning systems & AI agents.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-
-
-###
-
-<h2 align="center">🛠️ Techs & Tools I Use</h2>
-
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,7 +21,6 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=json&logoColor=white)
-* **Core Capabilities:** Tool/Function Calling, Structured Outputs, RAG Systems, Agent Orchestration, Embeddings, Reranking & Vector Search
 
 ### 🧠 Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -47,13 +30,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-* **Techniques & Practices:** Fine-tuning, LoRA / QLoRA, Model Evaluation
 
 ### 🎙️ Speech & Voice AI
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-* **Capabilities:** Real-time Audio Streaming, Voice Agents, Text-to-Speech (TTS), Multilingual Speech Processing
 
 ### 🔎 Search & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,14 +48,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-* **Architecture:** REST APIs, WebSockets, Async Python, Background Workers
 
 ### 🧪 Engineering & Testing
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 ![mypy](https://img.shields.io/badge/mypy-1682D4?style=for-the-badge&logo=python&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=precommit&logoColor=black)
-* **Practices:** Unit Testing, Integration Testing, CI/CD Pipelines
 
 ### ☁️ Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -90,7 +69,6 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-* **Practices:** LLM Evaluation, Tracing, Cost & Latency Monitoring, Guardrails, Human-in-the-Loop Workflow
 ###
 
 <h2 align="center">Find Me</h2>
