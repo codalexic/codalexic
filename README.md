@@ -3,7 +3,7 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=codalexic&amp;data=repositories,commits&amp;theme=nautilus" alt="GitHub profile overview" width="100%">
   </a>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codalexic&amp;theme=tokyonight" alt="GitHub contribution activity">
+  <img src="profile-details.svg" alt="GitHub contribution activity">
 </p>
 
 # Hey, I'm Alex! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
